@@ -1,14 +1,14 @@
 {
     "name": "hetengji/test",
-    "description": "description...",
+    "description": "这是个测试....",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
     "homepage": "https://github.com/hetengji/test",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "hetengji",
+            "email": "634390345@qq.com"
         }
     ],
     "require": {

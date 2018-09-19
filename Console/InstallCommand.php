@@ -1,6 +1,6 @@
 <?php
 
-namespace He\Cc\Console;
+namespace HeTengJi\Cc\Console;
 
 use Encore\Admin\Auth\Database\Administrator;
 use Illuminate\Console\Command;

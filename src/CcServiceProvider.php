@@ -1,6 +1,6 @@
 <?php
 
-namespace He\Cc;
+namespace HeTengJi\Cc;
 
 use Illuminate\Support\ServiceProvider;
 

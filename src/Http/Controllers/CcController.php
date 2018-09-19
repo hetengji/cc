@@ -1,6 +1,6 @@
 <?php
 
-namespace He\Cc\Http\Controllers;
+namespace HeTengJi\Cc\Http\Controllers;
 
 use Encore\Admin\Auth\Database\Administrator;
 use Encore\Admin\Auth\Database\Role;

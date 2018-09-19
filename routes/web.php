@@ -1,5 +1,6 @@
 <?php
 
-use HeTengJi\Test\Http\Controllers\TestController;
+use He\Cc\Http\Controllers\CcController;
 
-Route::get('test', TestController::class.'@index');
+Route::get('cc', CcController::class.'@index');
+Route::get('cc/create', CcController::class.'@create');

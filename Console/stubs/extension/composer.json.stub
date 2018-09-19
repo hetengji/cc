@@ -1,9 +1,9 @@
 {
-    "name": "he/cc",
+    "name": ":package",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/he/cc",
+    "homepage": "https://github.com/:package",
     "license": "MIT",
     "authors": [
         {
@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "He\\Cc\\": "src/"
+            ":namespace": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "He\\Cc\\CcServiceProvider"
+                ":namespace:class_nameServiceProvider"
             ]
 
         }
